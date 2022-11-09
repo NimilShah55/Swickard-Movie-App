@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Swickard-Movie-App.git/static/css/main.f0af703c.css",
+    "main.js": "/Swickard-Movie-App.git/static/js/main.ab77b1d7.js",
+    "index.html": "/Swickard-Movie-App.git/index.html",
+    "main.f0af703c.css.map": "/Swickard-Movie-App.git/static/css/main.f0af703c.css.map",
+    "main.ab77b1d7.js.map": "/Swickard-Movie-App.git/static/js/main.ab77b1d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0af703c.css",
+    "static/js/main.ab77b1d7.js"
+  ]
+}
